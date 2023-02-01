@@ -1,0 +1,1 @@
+Today marks the day I begin working on my public portfolio! This will be the first post of hopefully many to come to track my journey in new territory.
