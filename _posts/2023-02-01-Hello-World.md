@@ -1,1 +1,1 @@
-Today marks the day I begin working on my public portfolio! This will be the first post of hopefully many to come to track my journey in new territory.
+Today marks the day I begin working on my public portfolio! This will be the first post of hopefully many to come to track my journey in new territory. Please be patient with me as I navigate new horizons and get my portfolio up and running. There may be some placeholder text and not everything may be working at this time. 
