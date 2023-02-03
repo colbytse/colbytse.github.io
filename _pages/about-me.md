@@ -4,7 +4,7 @@ title: About me
 permalink: /about-me/
 ---
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: row;">
   <div>
     <p>I'm an Analytical Chemist turned Data Scientist. My past experience had me handling increasingly larger data sets from drug discovery, manufacturing, high throughput fermentation samples, and equally increasingly difficult analysis of this data. My journey as an Analytical Chemist has all roads pointed to utilizing newer technologies to accommodate the increasing complexity of my work so it only made sense to educate myself as a Data Scientist.</p>
   </div>
