@@ -10,15 +10,6 @@ permalink: /about-me/
     </div>
 </div>
 
-<style>
-    .container {
-    width:100%;
-    height;100%;
-    border: 5px solid black;
-    }
-    img {
-    
-    }
 <div style="display: flex; align-items: center;">
     <img src="../images/404.jpg" style="width: 400px;"/>
 </div>
